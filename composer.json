@@ -1,13 +1,13 @@
 {
-    "name": "laravelista/comments",
+    "name": "mrfabulous/laravelista_comments_lavarel_8",
     "description": "Comments for Laravel.",
     "keywords": ["laravel", "comments"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Mario Bašić",
-            "email": "mario@laravelista.hr",
-            "homepage": "https://laravelista.hr"
+            "name": "Jim Schlies",
+            "email": "jim@schlies.com",
+            "homepage": "http://schlies.com"
         }
     ],
     "require": {
